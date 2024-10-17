@@ -1,1 +1,5 @@
-# VaRsH
+Traffic congestion forms the main issue in urban areas as it leads to the waste of fuel, delays, and increased pollution. Traditional traffic control systems operate on fixed schedules that are normally not efficient when performing during peak hours of traffic movement. The main objective of this project is to design a simple traffic control system that can predict traffic congestion from historical data using a machine learning model. The system can change the traffic lights dynamically with the prediction of the real-time levels of traffic, thus defining the optimum flow of traffic and reducing the congestion.
+
+The pre-programmed timers or the static data used in existing systems fail to produce variances during real-time fluctuations. This project suggests that based on a linear regression model, congestion levels can be directly proportional to the current traffic input with real-time decisions regarding traffic signal timings. The system is simple and easy to implement. It also demonstrates the use of machine learning for traffic optimization.
+
+This project gathers data on source code and trains a linear regression model with simulated traffic data to test against such a model. It is a relatively simple implementation and can be used as the basis for more advanced traffic prediction systems in the future
